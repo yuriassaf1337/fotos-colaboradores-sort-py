@@ -39,7 +39,7 @@ O script realiza as seguintes etapas:
 3. **Filtro por tamanho**
      - Seleciona o menor arquivo entre cópias 
      - Exemplo: 
-```nginx 
+``` 
 RENAN NETTO RODRIGUES 1.jpg - 4.88MB
 RENAN NETTO RODRIGUES 2.jpg - 8.16MB
 → Mantém: Renan.Rodrigues - 4.88MB
